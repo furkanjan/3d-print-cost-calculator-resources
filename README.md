@@ -34,3 +34,6 @@ Pea3D focuses on **fast, transparent and free** cost estimation.
 ---
 
 If you find this useful, feel free to share it with the 3D printing community 🙂
+## 🔍 Keywords
+3d printing cost calculator, filament cost calculator, electricity cost 3d printer,
+bambu lab cost calculator, creality print cost
